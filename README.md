@@ -1,4 +1,4 @@
-# imgdsassign1
+f# imgdsassign1
 this is a binary language that operates on a 4 by 4 grid to draw some stuff
 each word is 4bits
 each instruction is 2 words
@@ -30,3 +30,5 @@ example  this code will draw an L shape using boxes
 ■
 ■
 ■  ■
+
+now see if can draw a cross
